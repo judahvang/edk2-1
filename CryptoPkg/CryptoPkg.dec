@@ -33,6 +33,9 @@
   Library/MbedTlsLib/mbedtls/include
   Library/MbedTlsLib/mbedtls/include/mbedtls
   Library/MbedTlsLib/mbedtls/library
+  Library/CryptoIPPLib/include
+  Library/CryptoIPPLib/include/asm_ia32
+  Library/CryptoIPPLib/include/asm_intel64
 
 [LibraryClasses]
   ##  @libraryclass  Provides basic library functions for cryptographic primitives.
@@ -52,6 +55,7 @@
   #
   OpensslLib|Private/Library/OpensslLib.h
   MbedTlsLib|Private/Library/MbedTlsLib.h
+  CryptoIPPLib|Private/Library/CryptoIPPLib.h
 
   ##  @libraryclass  Provides compiler intrinsic functions required to link openssl project.
   #

@@ -379,6 +379,12 @@
   CryptoPkg/Library/BaseCryptLibMbedTls/TestBaseCryptLib.inf
   CryptoPkg/Library/MbedTlsLib/MbedTlsLib.inf
   CryptoPkg/Library/MbedTlsLib/MbedTlsLibFull.inf
+  CryptoPkg/Library/BaseCryptLibCryptoIPP/BaseCryptLib.inf
+  CryptoPkg/Library/BaseCryptLibCryptoIPP/SecCryptLib.inf
+  CryptoPkg/Library/BaseCryptLibCryptoIPP/PeiCryptLib.inf
+  CryptoPkg/Library/BaseCryptLibCryptoIPP/SmmCryptLib.inf
+  CryptoPkg/Library/BaseCryptLibCryptoIPP/RuntimeCryptLib.inf
+  CryptoPkg/Library/CryptoIPPLib/CryptoIPPLib.inf
   CryptoPkg/Library/BaseCryptLibNull/BaseCryptLibNull.inf
   CryptoPkg/Library/IntrinsicLib/IntrinsicLib.inf
   CryptoPkg/Library/TlsLib/TlsLib.inf
